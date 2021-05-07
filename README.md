@@ -3,6 +3,4 @@ copilot_interface written with the ros_qml package.
 
 ## Dependency
 In the home directory:
-
-SWITCH TO THIS ONE... PYQT5 wont install python2
-https://github.com/severin-lemaignan/ros-qml-plugin
+sudo apt install qt5-qmake qt5-default qtdeclarative5-dev
